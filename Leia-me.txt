@@ -1,0 +1,4 @@
+Apenas abra o link no browser.
+Gabriel Joshua Calixto Naves dos Santos | 11911BCC052
+
+Obs: Tive que retirar as acentuações por conta de processamento, mesmo especificando UTF-8.
